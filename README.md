@@ -1,15 +1,13 @@
 <h1>👋 I'm Hammad Ali. </h1>
 
-- 🎒 Open minded Abstraction Explorer, BUIDLer & Breaker.
-- 🔭 Working as a blockchain researcher, Solutions architect!
-- 🌱 Exploring whitepaper implementations & hard maths!
-- 👯 Loves to collaborate & contribute
+- 🔗 Working on Ethereum, EVM based chains and Solidity.
+- 🔭 Drilling as a Blockchain researcher, Solutions architect at DroxsLab.
+- 🌱 Keen Interest in Security Audits and Bug Reports!
+- 👯 Excited to collaborate with other professionals out.
 
-Have an intresting project/tool to build ? Hit me up on [twitter](https://twitter.com/).
+Interested in collaborating to build something in DEFI? Hit me up on [twitter](https://twitter.com/HammadA29371415).
 
 <p>
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hammad-ali18&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-ali18&theme=react&layout=compact" />
 </p>
-
-------
