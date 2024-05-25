@@ -1,7 +1,7 @@
 <h1>👋 I'm Hammad Ali. </h1>
 
 - 🔗 Working on Ethereum, EVM based chains and Solidity.
-- 🔭 Drilling as a Blockchain researcher, Solutions architect at DroxLabs.
+- 🔭 Drilling as a Blockchain researcher, Solutions architect at https://www.droxlabs.com/.
 - 🌱 Keen Interest in Security Audits and Bug Reports!
 - 👯 Excited to collaborate with other professionals out.
 
