@@ -4,7 +4,7 @@
 - 🔭 Drilling as a Blockchain researcher, Solutions architect at Droxlabs.
 - 🌱 Keen Interest in Security Audits and Bug Reports!
 - 👯 Excited to collaborate with other professionals out.
-
+- 🦀 Learning Rust & exploring Non EVM Compaitable chains.
 Interested in collaborating to build something in DEFI? Hit me up on [twitter](https://twitter.com/HammadA29371415).
 
 <p>
