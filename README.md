@@ -2,7 +2,7 @@
 
 - 🔗 Working on Ethereum, EVM based chains and Solidity.
 - 🦀 Learning Rust & exploring Non EVM Compaitable chains.
-- 🔭 Drilling as a Blockchain researcher, Solutions architect at Droxlabs.
+- 🔭 Drilling as a Blockchain Engineer at Droxlabs.
 - 🌱 Keen Interest in Security Audits and Bug Reports!
 - 👯 Excited to collaborate with other professionals out.
 
